@@ -1,0 +1,13 @@
+Sem Hyperparametro
+
+R² no conjunto de teste: 0.9431
+Raiz do Erro médio quadrático no conjunto de teste: 19.6270
+Erro médio absoluto no conjunto de teste: 10.8472
+Explained Variance Score: 0.9433
+
+Com Hyperparametro
+
+R² no conjunto de teste: 0.9482
+Raiz do Erro médio quadrático no conjunto de teste: 18.7415
+Erro médio absoluto no conjunto de teste: 11.2081
+Explained Variance Score: 0.9489

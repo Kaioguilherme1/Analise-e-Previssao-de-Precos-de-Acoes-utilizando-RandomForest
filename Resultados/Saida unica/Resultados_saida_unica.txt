@@ -1,0 +1,34 @@
+Sem hyperparametros
+
+Número de ações:  844
+Número de dias:  618
+R² no conjunto de teste: 0.8844
+Raiz do Erro médio quadrático no conjunto de teste: 26.2010
+Erro médio absoluto no conjunto de teste: 15.5249
+Explained Variance Score: 0.8862
+Número de erros no conjunto de teste: 211
+Quantidade total de itens testados: 211
+           Real   Predicted  2022-09-30
+705    4.460000    7.419700    6.950000
+246    1.560000    3.446600    2.640000
+697   87.360001   90.429399   90.599998
+20   207.000000  203.148300  195.955566
+704    0.960000    1.953600    1.609824
+
+Com hyperparametros
+
+Número de ações:  844
+Número de dias:  618
+R² no conjunto de teste: 0.9045
+Raiz do Erro médio quadrático no conjunto de teste: 23.8141
+Erro médio absoluto no conjunto de teste: 15.0906
+Explained Variance Score: 0.9057
+Número de erros no conjunto de teste: 211
+Quantidade total de itens testados: 211
+           Real   Predicted  2022-09-30
+705    4.460000    8.317239    6.950000
+246    1.560000    3.175466    2.640000
+697   87.360001  100.466766   90.599998
+20   207.000000  197.685810  195.955566
+704    0.960000    3.175466    1.609824
+
